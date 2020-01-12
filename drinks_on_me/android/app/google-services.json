@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40378246332",
+    "firebase_url": "https://drinks-on-me-1b7d5.firebaseio.com",
+    "project_id": "drinks-on-me-1b7d5",
+    "storage_bucket": "drinks-on-me-1b7d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40378246332:android:88cc91a41996c6db66dcb9",
+        "android_client_info": {
+          "package_name": "be.patricegautot.drinks_on_ne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40378246332-amq13t16f1ehvt0vhvced6t4rd3d1qod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3L9DHKPl1_psuVhhoBvij1zq3CivUkPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40378246332-amq13t16f1ehvt0vhvced6t4rd3d1qod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
